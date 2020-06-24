@@ -1,2 +1,2 @@
 # vpn-instructions
-instructions to install a personal vpn via OpenVPN
+Instructions to install a personal VPN using the OpenVPN package.
